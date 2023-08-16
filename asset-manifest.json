@@ -1,10 +1,13 @@
 {
   "files": {
-    "main.js": "/iNotebook-React/static/js/main.f3f68c1d.js",
-    "index.html": "/iNotebook-React/index.html",
-    "main.f3f68c1d.js.map": "/iNotebook-React/static/js/main.f3f68c1d.js.map"
+    "main.css": "/TextAnalyzer-React/static/css/main.359a36d3.css",
+    "main.js": "/TextAnalyzer-React/static/js/main.683e2436.js",
+    "index.html": "/TextAnalyzer-React/index.html",
+    "main.359a36d3.css.map": "/TextAnalyzer-React/static/css/main.359a36d3.css.map",
+    "main.683e2436.js.map": "/TextAnalyzer-React/static/js/main.683e2436.js.map"
   },
   "entrypoints": [
-    "static/js/main.f3f68c1d.js"
+    "static/css/main.359a36d3.css",
+    "static/js/main.683e2436.js"
   ]
 }
